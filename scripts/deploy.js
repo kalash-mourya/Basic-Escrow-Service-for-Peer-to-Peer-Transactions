@@ -12,7 +12,7 @@ async function main() {
 
   await escrow.deployed();
 
-  console.log("Escrow contract deployed to:", escrow.address);
+  console.log("Escrow    contract deployed to:", escrow.address);
 }
 
 main()
