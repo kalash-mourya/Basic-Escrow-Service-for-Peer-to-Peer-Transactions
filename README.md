@@ -19,7 +19,7 @@ To eliminate trust issues in peer-to-peer financial interactions by using a dece
 - Add multi-party arbitration with voting mechanisms.
 - Implement a dispute resolution system via DAO or staking-based governance.
 - Introduce milestone-based payment release for service-based contracts.
-- Integrate with frontend for real-time escrow management.
+- Integrate with   frontend for real-time escrow management.
 
 ## Contract details
 0x1871Fb2930770D41813246867BF9A82f8db0C874
