@@ -1,4 +1,4 @@
-# Basic Escrow Service for Peer-to-Peer Transactions
+#   Basic Escrow Service for Peer-to-Peer Transactions
 
 ## Project Description
 
