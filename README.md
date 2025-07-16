@@ -1,6 +1,6 @@
 #   Basic Escrow Service for Peer-to-Peer Transactions
 
-## Project Description
+##  Project Description
 
 A simple smart contract that facilitates a secure escrow system for peer-to-peer (P2P) payments. This ensures funds are held safely until a designated arbiter approves release to the payee, protecting both buyers and sellers in online transactions.
 
