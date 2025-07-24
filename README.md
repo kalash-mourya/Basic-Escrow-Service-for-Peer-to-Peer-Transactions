@@ -8,7 +8,6 @@ A simple smart contract that facilitates a secure escrow system for peer-to-peer
 To eliminate trust issues in peer-to-peer financial interactions by using a decentralized, transparent, and code-enforced escrow mechanism. This solution empowers users to transact safely without reliance on third-party services or intermediaries.
 
 ## Key Features
-
 - **Payer-Funded Escrow**: The contract is initialized and funded by the payer.
 - **Arbiter Control**: A neutral third party (arbiter) is given authority to release or refund funds.
 - **One-Time Transfer Logic**: Ensures that funds can only be released once.
