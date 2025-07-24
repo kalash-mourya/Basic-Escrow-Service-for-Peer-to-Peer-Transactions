@@ -18,6 +18,8 @@ contract Escrow{
         isReleased = false;
     }
 
+
+
     function releaseFunds() external {
         require(msg.sender == arbiter, "Only arbiter can release funds");
         require(isFunded, "Escrow not funded");
