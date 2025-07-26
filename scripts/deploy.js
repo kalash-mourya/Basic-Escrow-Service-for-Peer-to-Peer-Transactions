@@ -17,7 +17,6 @@ async function main(){
 
   console.log("Escrow    contract deployed to:", escrow.address);
 }
-
 main()
   .then(() => process.exit(0))
   .catch((error) => {
