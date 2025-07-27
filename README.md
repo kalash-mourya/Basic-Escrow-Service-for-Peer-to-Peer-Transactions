@@ -4,7 +4,6 @@
 ##  Project Description
 A simple smart contract that facilitates a secure escrow system for peer-to-peer (P2P) payments. This ensures funds are held safely until a designated arbiter approves release to the payee, protecting both buyers and sellers in online transactions.
 
-
 ## Project Vision
 To eliminate trust issues in peer-to-peer financial interactions by using a decentralized, transparent, and code-enforced escrow mechanism. This solution empowers users to transact safely without reliance on third-party services or intermediaries.
 
