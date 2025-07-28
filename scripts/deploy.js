@@ -5,6 +5,7 @@ async function main(){
   const [deployer] = await ethers.getSigners();
   console.log("Deploying Escrow contract with account:", deployer.address);
 
+  
   // Replace these addresses with actual payee and arbiter addresses for deployment
   const payeeAddress = "0xYourPayeeAddressHere";
   const arbiterAddress = "0xYourArbiterAddressHere";
