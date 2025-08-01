@@ -1,6 +1,5 @@
 /  / SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
-
 contract Escrow{
     address public payer;
     address public payee;
