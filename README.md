@@ -13,7 +13,6 @@ To eliminate trust issues in peer-to-peer financial interactions by using a dece
 - **One-Time Transfer Logic**: Ensures that funds can only be released once.
 
 ## Future Scope
-
 - Add multi-party arbitration with voting mechanisms.
 - Implement a dispute resolution system via DAO or staking-based governance.
 - Introduce milestone-based payment release for service-based contracts.
