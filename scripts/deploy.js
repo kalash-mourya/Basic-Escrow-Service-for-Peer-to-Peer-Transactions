@@ -1,6 +1,7 @@
 
 // this is my script
 
+
 async function main(){
   const [deployer] = await ethers.getSigners();
   console.log("Deploying Escrow contract with account:", deployer.address);
